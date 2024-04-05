@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\C J\Downloads\DirectX-master (2)\DirectX-master\Week2\InitializeDirect3DTemplate\Week2-2-InitializeDirect3D\x64\Debug\InitializeDirect3D.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\C J\Downloads\DirectX-master (2)\DirectX-master\Week2\InitializeDirect3DTemplate\Week2-2-InitializeDirect3D\x64\Debug\TreeSprite.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
